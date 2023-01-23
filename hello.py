@@ -25,3 +25,11 @@
 # The support team.
 # '''
 # print(course)
+
+course = 'redoy kumar shaha'
+another = course[:]
+print(course[0])
+print(course[-1])
+print(course[0:3]) # 0 to 2 index print.
+print(another)
+print(course[:5]) #print first 5 charecter. 
