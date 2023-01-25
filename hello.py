@@ -26,10 +26,28 @@
 # '''
 # print(course)
 
-course = 'redoy kumar shaha'
-another = course[:]
-print(course[0])
-print(course[-1])
-print(course[0:3]) # 0 to 2 index print.
-print(another)
-print(course[:5]) #print first 5 charecter. 
+# course = 'redoy kumar shaha'
+# another = course[:]
+# print(course[0])
+# print(course[-1])
+# print(course[0:3]) # 0 to 2 index print.
+# print(another)
+# print(course[:5]) #print first 5 charecter. 
+
+# first = 'Redoy'
+# last = 'Saha'
+# message = first + ' [' + last + '] is a coder'
+# msg = f'{first} [{last}] is a coder'
+# print(message)
+# print(msg)
+
+# name = 'Redoy Kumar Shaha'
+# print(len(name))
+# print(name.upper())
+# print(name.lower())
+# print(name)
+# print (name.find('R')) # show inedex number
+# print(name.replace('Kumar','Sundar'))
+# print('redoy' in name)
+# print('Redoy' in name)
+# print(name.title())
