@@ -51,3 +51,43 @@
 # print('redoy' in name)
 # print('Redoy' in name)
 # print(name.title())
+
+# print(10 // 3) #Print integer
+# print(10 / 3) #print float
+# print(10%3)#print mod number
+# print(10 ** 3) #10 power of 3
+
+# X = 10
+# X = X+3
+# #or
+# X -= 3
+# print(X)
+
+# x = 10 + 3 * 2 ** 2
+# print(x)
+
+# X = (2 + 3) * 10 - 3     # (),*/, -+ work order
+# print(X)
+
+# x= 2.9
+# print(round(x))
+
+# import math
+# print(math.ceil(5.4))
+
+# #IF_Statement
+# is_hot = False
+# is_cold = False
+
+# if is_hot:
+#     print("It's a hot day")
+# elif is_cold:
+#     print("It's a cold day")
+# else:
+#     print("It's a lovely day")
+
+# print("Enjoy your day")  
+
+  
+
+
