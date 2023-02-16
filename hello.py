@@ -87,7 +87,17 @@
 #     print("It's a lovely day")
 
 # print("Enjoy your day")  
-
   
+# oparetor: 
+# x = 10
+# print( x < 12 ) 
+# AND--- two condition are true.
+# OR ---  at leat one condition is true.
+# NOT ---- any conditoion is true.
 
+# LOOPS..........
+# i=1
+# while i <= 10:
 
+#     print(i * '*')
+#     i=i+1
